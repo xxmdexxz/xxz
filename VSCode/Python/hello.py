@@ -1,0 +1,1 @@
+print('Hello\"\" \nWord','\n你好\n世界')
